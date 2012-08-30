@@ -1574,7 +1574,7 @@ $$k = 1,05 \,\cdot\, 10^{-6}.$$
 Reines Baryumchlorid ist diamagnetisch, seine Magnetisirungszahl
 beträgt:
 $$k = -0,40\,\cdot\, 10^{-6}.$$
-Ganz entsprechend diesen Resu1taten findet man für ein
+Ganz entsprechend diesen Resultaten findet man für ein
 Radium-haltiges Baryumchlorid mit etwa 17 Proz.&nbsp;Radiumchlorid
 diamagnetisches Verhalten und eine Magnetisirungszahl:^[Im Jahre 1899 teilte Herr *St. Meyer*[@ms1899ann]
   mit, daß radiumhaltiges Baryumkarbonat paramagnetisch sei. Herr
